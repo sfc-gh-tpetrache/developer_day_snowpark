@@ -1,0 +1,10 @@
+snowflake-snowpark-python[pandas]==0.7.0
+protobuf==3.20.0
+scikit-learn==1.0.2
+scipy==1.7.1
+cloudpickle==2.0.0
+statsmodels==0.13.0
+matplotlib==3.5.0
+kmodes==0.12.1
+seaborn==0.11.2
+streamlit==1.11.0

@@ -43,8 +43,8 @@ In this example we use the [Central Park Squirrel Census dataset](https://data.c
     - Create a New Project 
     - Go back and then click on the "+" to add a new terminal 
     - Copy paste these 2 commands into the terminal: 
-          ```git clone https://github.com/sfc-gh-tpetrache/dev-day-squirrels.git```
+          ```git clone https://github.com/sfc-gh-tpetrache/developer_day_snowpark.git```
           and then
-          ```cp dev-day-squirrels/requirements.txt . ```
+          ```cp developer_day_snowpark/requirements.txt . ```
     - Go to Environment and choose Python 3.8 
     - Check Allow incoming connections (will use that for Streamlit). This option will open a tunneling link that we will use to open our Streamlit app

@@ -3,9 +3,9 @@
 
 Have you ever wondered how many squirrels are in NYC parks, where they are located, and what they are up to? Do you like people-watching, storytelling, music, fortunes, meditation, squirrel jokes, making fun of dogs, food reviews of data, squirrels teaming up to fight a hungry hawk, and the phrase “forever wild”?
 
-<img src="include/squirrels.png" alt="Looking for something" width="200"/>   
-
 Then this is the perfect hands-on workshop for you! 
+
+<img src="include/timeline.png" alt="Looking for something" width="800"/>   
 
 
 ### :checkered_flag: Requirements:  

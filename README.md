@@ -37,7 +37,7 @@ In this example we use the [Central Park Squirrel Census dataset](https://data.c
 - Login to your [Snowflake Trial account](https://app.snowflake.com/) with the admin credentials that were created with the account in one browser tab (a role with ORGADMIN privileges). Keep this tab open during the hands-on-lab.  
     - Click on the Billing on the left side panel. 
     - Click on [Terms and Billing](https://app.snowflake.com/terms-and-billing).
-    - Read and accept terms to continue with the hands-on-lab.
+    - Enable Anaconda Python Packages to continue with the hands-on-lab.
 - Login to [DeepNote](https://deepnote.com/) in another browser tab.  
     - Create a workspace 
     - Create a New Project 

@@ -48,3 +48,6 @@ In this example we use the [Central Park Squirrel Census dataset](https://data.c
           ```cp developer_day_snowpark/requirements.txt . ```
     - Go to Environment and choose Python 3.8 
     - Check Allow incoming connections (will use that for Streamlit). This option will open a tunneling link that we will use to open our Streamlit app
+
+### :fire: Extra
+For more specific instructions, follow this [link](https://docs.google.com/document/d/1AmpHXbjNHg-JabYCe4iuPwcBszA3lWfQymyhFLIcC58/edit?usp=sharing)!

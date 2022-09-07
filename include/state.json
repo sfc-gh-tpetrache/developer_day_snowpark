@@ -1,1 +1,1 @@
-{"connection_parameters": {"user": "<USERNAME>", "account": "<ACCOUNTNAME>.<DOMAIN>", "role": "ACCOUNTADMIN"}, "compute_parameters": {"default_warehouse": "XSMALL_WH", "ds_warehouse": "LARGE_WH"}, "additional_roles": {"default_role": "PUBLIC", "project_role": "ACCOUNTADMIN"}}
+{"connection_parameters": {"user": "<username>", "account": "<account_locator>.<cloud_region_id>", "role": "ACCOUNTADMIN"}, "compute_parameters": {"default_warehouse": "XSMALL_WH", "ds_warehouse": "LARGE_WH"}, "additional_roles": {"default_role": "PUBLIC", "project_role": "ACCOUNTADMIN"}}
